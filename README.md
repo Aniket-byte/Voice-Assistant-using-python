@@ -17,4 +17,7 @@ The modules used in this project are:
   (7) random : for generating a random number.
   (8) smtplib : for SMTP protocol, used in sending e-mails.
   
- 
+NOTE:
+  (1) You have to specify your music library in the code.
+  (2) You also have to edit the image (image is to be displayed on the voice command button) path which is provided in this repository in       the code. 
+  
